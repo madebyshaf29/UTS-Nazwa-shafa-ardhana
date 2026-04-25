@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#e0f2fe"/>
+  <circle cx="300" cy="170" r="80" fill="#7dd3fc"/>
+  <path d="M300 110 C340 130, 350 180, 300 250 C250 180, 260 130, 300 110Z" fill="#0284c7"/>
+  <text x="300" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#075985">Bibit Ikan</text>
+</svg>
